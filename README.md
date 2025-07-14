@@ -38,7 +38,7 @@ Fatec Franca — *conclusão prevista para Dezembro de 2025*
 
 ## 🌍 Idiomas
 
-- 🇬🇧 **Inglês Avançado (C1)**  
+- **Inglês Avançado (C1)**  
   Certificado pelo IELTS (Cambridge) e TOEIC Listening & Reading Test  
   Intercâmbio de 2 anos em Galway, Irlanda (2019–2021)
 
