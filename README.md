@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe Ferreira Rezende!  
+### Desenvolvedor em Transição de Carreira | DevSecOps | Cloud | Inglês Avançado (C1)
 
-<!--
-**FelipeGalway/FelipeGalway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Atualmente em transição para a área de tecnologia, com grande interesse em desenvolvimento de software, DevSecOps e computação em nuvem. Venho de uma formação sólida em Direito, mas encontrei na tecnologia um novo propósito profissional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Formação & Certificações
+
+🎓 **Tecnólogo em Desenvolvimento de Software Multiplataforma**  
+Fatec Franca — *conclusão prevista para Dezembro de 2025*
+
+🧠 **Certificações Técnicas**  
+- AWS Certified Cloud Practitioner (2025–2028)  
+- AWS Cloud Quest: Cloud Practitioner  
+- UX Básico – Centro Paula Souza  
+- Design Patterns Básico – Centro Paula Souza  
+- Front-End Básico (HTML & CSS) – Centro Paula Souza  
+
+---
+
+## 💼 Experiência em Tecnologia
+
+🛡️ **DevSecOps Scholar – Compass UOL** *(jan–jun/2025)*  
+- Estudo e aplicação prática com **Linux, Docker, Kubernetes, AWS Console, FinOps, segurança e desenvolvimento de software**  
+- Projetos integrando práticas de segurança ao ciclo de desenvolvimento (DevSecOps)
+
+---
+
+## 🔧 Habilidades Técnicas
+
+- **Linguagens**: HTML, CSS, JavaScript, Python, SQL  
+- **Cloud**: AWS (certificado), FinOps  
+- **DevOps/DevSecOps**: Docker, Kubernetes, Linux  
+- **Outros**: Git, GitHub, Design Patterns, UX
+
+---
+
+## 🌍 Idiomas
+
+- 🇬🇧 **Inglês Avançado (C1)**  
+  Certificado pelo IELTS (Cambridge) e TOEIC Listening & Reading Test  
+  Intercâmbio de 2 anos em Galway, Irlanda (2019–2021)
+
+---
+
+## 📌 Sobre mim
+
+- 📍 Franca, São Paulo – Brasil  
+- 🎓 Transição de carreira iniciada após experiências no exterior  
+- 💻 Em constante aprendizado e envolvido com projetos de software, cloud e segurança  
+- 🔎 Buscando oportunidades para aplicar e expandir meus conhecimentos técnicos
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)  
+
+
+
+
