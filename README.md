@@ -53,6 +53,14 @@ Fatec Franca — *conclusão prevista para Dezembro de 2025*
 
 ---
 
+## 📊 GitHub Stats
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeGalway&show_icons=true&theme=default)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGalway&layout=compact&langs_count=6&theme=default)
+
+---
+
 ## 📫 Vamos nos conectar?
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)  
