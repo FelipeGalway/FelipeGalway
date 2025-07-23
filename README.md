@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Felipe Ferreira Rezende!  
-### Em Transição de Carreira | Desenvolvimento de Software | DevSecOps | Cloud | Inglês Avançado (C1)
+### Desenvolvedor em Transição de Carreira | Desenvolvimento de Software | DevSecOps | Cloud | Inglês Avançado (C1)
 
 🎯 Atualmente em transição para a área de tecnologia, com grande interesse em desenvolvimento de software, DevSecOps e computação em nuvem. Venho de uma formação sólida em Direito, mas encontrei na tecnologia um novo propósito profissional.
 
