@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Felipe Ferreira Rezende!  
 ### Desenvolvedor de Sistemas | Inglês Avançado (C1)
 
-🎯 Atualmente trabalho como Desenvolvedor de Sistemas após uma transição para a área de tecnologia, onde encontrei um novo propósito profissional.
+🎯 Atualmente trabalho como Desenvolvedor de Sistemas após uma transição para a área de Tecnologia, onde encontrei um novo propósito profissional.
 
 ---
 
