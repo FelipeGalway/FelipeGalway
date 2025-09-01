@@ -52,7 +52,6 @@ Fatec Franca — *conclusão prevista para Dezembro de 2025*
 - 📍 Franca, São Paulo – Brasil  
 - 🎓 Transição de carreira iniciada após experiências no exterior  
 - 💻 Em constante aprendizado e envolvido com projetos de software, cloud e segurança  
-- 🔎 Buscando oportunidades para aplicar e expandir meus conhecimentos técnicos
 
 ---
 
