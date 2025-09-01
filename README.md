@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Felipe Ferreira Rezende!  
-### Desenvolvedor em Transição de Carreira | Desenvolvimento de Software | DevSecOps | Cloud | Inglês Avançado (C1)
+### Desenvolvedor de Sistemas | Inglês Avançado (C1)
 
-🎯 Atualmente em transição para a área de tecnologia, com grande interesse em desenvolvimento de software, DevSecOps e computação em nuvem. Venho de uma formação sólida em Direito, mas encontrei na tecnologia um novo propósito profissional.
+🎯 Atualmente trabalho como Desenvolvedor de Sistemas após uma transição para a área de tecnologia, onde encontrei um novo propósito profissional.
 
 ---
 
@@ -20,6 +20,9 @@ Fatec Franca — *conclusão prevista para Dezembro de 2025*
 ---
 
 ## 💼 Experiência em Tecnologia
+
+💻 **Desenvolvedor de Sistemas – Santa Casa de Franca** *(set 2025 - atual)*  
+- Desenvolvimento de aplicativos e sistemas internos 
 
 🛡️ **DevSecOps Scholar – Compass UOL** *(jan–jun/2025)*  
 - Estudo e aplicação prática com **Linux, Docker, Kubernetes, AWS Console, FinOps, segurança e desenvolvimento de software**  
