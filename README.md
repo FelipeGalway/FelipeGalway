@@ -8,7 +8,7 @@
 ## 📚 Formação & Certificações
 
 🎓 **Tecnólogo em Desenvolvimento de Software Multiplataforma**  
-Fatec Franca — *conclusão prevista para Dezembro de 2025*
+Fatec Franca 
 
 🧠 **Certificações Técnicas**  
 - AWS Certified Cloud Practitioner (2025–2028)  
@@ -32,7 +32,8 @@ Fatec Franca — *conclusão prevista para Dezembro de 2025*
 
 ## 🔧 Habilidades Técnicas
 
-- **Linguagens**: HTML, CSS, JavaScript, Python, SQL  
+- **Linguagens**: HTML, CSS, JavaScript, TypeScript, Python, SQL
+- **Runtimes & Frameworks**: Node.js, Next.js, NestJS
 - **Cloud**: AWS (certificado), FinOps  
 - **DevOps/DevSecOps**: Docker, Kubernetes, Linux  
 - **Outros**: Git, GitHub, Design Patterns, UX
