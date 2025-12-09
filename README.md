@@ -7,8 +7,8 @@
 
 ## 📚 Formação & Certificações
 
-🎓 **Tecnólogo em Desenvolvimento de Software Multiplataforma**  
-Fatec Franca 
+🎓 **Formações**  
+- Desenvolvimento de Software Multiplataforma - Fatec Franca 
 
 🧠 **Certificações Técnicas**  
 - AWS Certified Cloud Practitioner (2025–2028)  
